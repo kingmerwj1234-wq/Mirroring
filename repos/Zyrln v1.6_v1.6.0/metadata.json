@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/ajavadinezhad/zyrln/releases/download/v1.6.0/zyrln-1.6.apk",
+  "method": "github_release",
+  "repo": "ajavadinezhad/zyrln",
+  "tag": "v1.6.0",
+  "assets": [
+    {
+      "name": "zyrln-1.6-darwin-amd64",
+      "size": 13474272
+    },
+    {
+      "name": "zyrln-1.6-darwin-arm64",
+      "size": 12857106
+    },
+    {
+      "name": "zyrln-1.6-linux-amd64",
+      "size": 13319568
+    },
+    {
+      "name": "zyrln-1.6-windows-amd64.exe",
+      "size": 13413376
+    },
+    {
+      "name": "zyrln-1.6.apk",
+      "size": 27989882
+    }
+  ],
+  "crc32": {
+    "zyrln-1.zip": "d2ca32ae",
+    "zyrln-1.6.zip": "e5b40e94",
+    "zyrln-1.6-darwin-amd64": "44d77456",
+    "zyrln-1.6-windows-amd64.zip": "c6441e7b"
+  },
+  "total_size": 41399618,
+  "release_date": "2026-05-21T13:01:23Z",
+  "use_lfs": false,
+  "downloaded": "2026-05-22T15:59:36.440950+00:00"
+}

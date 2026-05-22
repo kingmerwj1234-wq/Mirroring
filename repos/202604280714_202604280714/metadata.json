@@ -50,20 +50,20 @@
     }
   ],
   "crc32": {
-    "Country.mmdb": "45845798",
-    "geosite-lite.dat": "734bad16",
-    "Security-ip.mmdb": "45061132",
-    "Country-lite.mmdb": "2970f782",
-    "security.dat": "3140ce01",
     "geoip-services.dat": "0e6e9ac7",
     "Services.mmdb": "9090d44b",
-    "geoip-lite.dat": "0153e88e",
+    "security.dat": "3140ce01",
+    "Country-lite.mmdb": "2970f782",
+    "Country.mmdb": "45845798",
     "geoip.dat": "da8c6bd0",
+    "Security-ip.mmdb": "45061132",
+    "geosite-lite.dat": "734bad16",
     "geosite.dat": "079af31d",
+    "geoip-lite.dat": "0153e88e",
     "security-ip.dat": "f26aa427"
   },
   "total_size": 41825547,
   "release_date": "2026-04-28T07:17:11Z",
   "use_lfs": false,
-  "downloaded": "2026-05-12T22:14:31.132264+00:00"
+  "downloaded": "2026-05-22T15:59:53.073602+00:00"
 }
