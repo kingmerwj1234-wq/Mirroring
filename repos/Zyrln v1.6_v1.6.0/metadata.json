@@ -26,13 +26,13 @@
     }
   ],
   "crc32": {
-    "zyrln-1.zip": "dcd26c71",
-    "zyrln-1.6.zip": "769fb43f",
+    "zyrln-1.zip": "f10aeb84",
+    "zyrln-1.6.zip": "f99ee135",
     "zyrln-1.6-darwin-amd64": "44d77456",
-    "zyrln-1.6-windows-amd64.zip": "b5fffd85"
+    "zyrln-1.6-windows-amd64.zip": "920c237e"
   },
   "total_size": 41399618,
   "release_date": "2026-05-21T13:01:23Z",
   "use_lfs": false,
-  "downloaded": "2026-05-24T11:00:40.073537+00:00"
+  "downloaded": "2026-05-25T16:07:07.826092+00:00"
 }
