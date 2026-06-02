@@ -1,0 +1,20 @@
+{
+  "url": "https://github.com/2dust/v2rayN/releases/download/7.22.5/v2rayN-windows-64.zip",
+  "method": "github_release",
+  "repo": "2dust/v2rayN",
+  "tag": "7.22.5",
+  "assets": [
+    {
+      "name": "v2rayN-windows-64.zip",
+      "size": 166857001
+    }
+  ],
+  "crc32": {
+    "v2rayN-windows-64_split.z01": "5ea7b0a7",
+    "v2rayN-windows-64_split.zip": "35cc1713"
+  },
+  "total_size": 166857237,
+  "release_date": "2026-06-02T11:19:24Z",
+  "use_lfs": false,
+  "downloaded": "2026-06-02T19:02:28.582979+00:00"
+}
