@@ -1,0 +1,19 @@
+{
+  "url": "https://github.com/2dust/v2rayNG/releases/download/2.2.4/v2rayNG_2.2.4_universal.apk",
+  "method": "github_release",
+  "repo": "2dust/v2rayNG",
+  "tag": "2.2.4",
+  "assets": [
+    {
+      "name": "v2rayNG_2.2.4_universal.apk",
+      "size": 66000599
+    }
+  ],
+  "crc32": {
+    "v2rayNG_2.2.4_universal.zip": "060be39c"
+  },
+  "total_size": 63694197,
+  "release_date": "2026-06-14T03:41:46Z",
+  "use_lfs": false,
+  "downloaded": "2026-06-14T09:00:10.914544+00:00"
+}
