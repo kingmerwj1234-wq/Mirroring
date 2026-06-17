@@ -1,0 +1,43 @@
+{
+  "url": "https://github.com/ajavadinezhad/zyrln/releases/download/v2.0-pre-4/zyrln-2.0-pre-4-windows-amd64.exe",
+  "method": "github_release",
+  "repo": "ajavadinezhad/zyrln",
+  "tag": "v2.0-pre-4",
+  "assets": [
+    {
+      "name": "zyrln-2.0-pre-4-android.apk",
+      "size": 28355010
+    },
+    {
+      "name": "zyrln-2.0-pre-4-darwin-amd64",
+      "size": 13483152
+    },
+    {
+      "name": "zyrln-2.0-pre-4-darwin-arm64",
+      "size": 12857794
+    },
+    {
+      "name": "zyrln-2.0-pre-4-linux-amd64",
+      "size": 13329952
+    },
+    {
+      "name": "zyrln-2.0-pre-4-vps.zip",
+      "size": 9873916
+    },
+    {
+      "name": "zyrln-2.0-pre-4-windows-amd64.exe",
+      "size": 13421056
+    }
+  ],
+  "crc32": {
+    "zyrln-2.0-pre-4-darwin-amd64": "5f14ca25",
+    "zyrln-2.0-pre-4-windows-amd64.zip": "33993574",
+    "zyrln-2.0-pre-4-darwin-arm64": "aca8149a",
+    "zyrln-2.0-pre-4-vps.zip": "8e1b5c7a",
+    "zyrln-2.0-pre-4-android.zip": "b0187612"
+  },
+  "total_size": 57555845,
+  "release_date": "2026-06-16T18:24:58Z",
+  "use_lfs": false,
+  "downloaded": "2026-06-17T10:23:32.321536+00:00"
+}

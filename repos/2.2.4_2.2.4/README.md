@@ -3,14 +3,14 @@
 | Property | Value |
 |--- |---|
 | **URL** | https://github.com/2dust/v2rayNG/releases/tag/2.2.4 |
-| **Downloaded** | 2026-06-16 10:51 UTC |
-| **Release Date** | 2026-06-14 03:41 UTC (2 days ago) |
+| **Downloaded** | 2026-06-17 10:23 UTC |
+| **Release Date** | 2026-06-14 03:41 UTC (3 days ago) |
 | **Total Size** | 60.7 MB |
 | **Release Name** | 2.2.4 |
 | **Tag** | 2.2.4 |
 
 <details><summary>Files</summary>
 
-- [`v2rayNG_2.2.4_universal.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F2.2.4_2.2.4%2Fv2rayNG_2.2.4_universal.zip) (60.7 MB) `(CRC32: 905cd018)`
+- [`v2rayNG_2.2.4_universal.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F2.2.4_2.2.4%2Fv2rayNG_2.2.4_universal.zip) (60.7 MB) `(CRC32: 42a39c7e)`
 
 </details>
