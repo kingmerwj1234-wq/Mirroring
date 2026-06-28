@@ -3,15 +3,15 @@
 | Property | Value |
 |--- |---|
 | **URL** | https://github.com/2dust/v2rayN/releases/tag/7.23.1 |
-| **Downloaded** | 2026-06-27 08:25 UTC |
-| **Release Date** | 2026-06-26 09:40 UTC (22 hr ago) |
+| **Downloaded** | 2026-06-28 08:38 UTC |
+| **Release Date** | 2026-06-26 09:40 UTC (1 day ago) |
 | **Total Size** | 158.9 MB |
 | **Release Name** | 7.23.1 |
 | **Tag** | 7.23.1 |
 
 <details><summary>Files</summary>
 
-- [`v2rayN-windows-64_split.z01`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.23.1_7.23.1%2Fv2rayN-windows-64_split.z01) (99.0 MB) `(CRC32: 52717b5a)`
-- [`v2rayN-windows-64_split.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.23.1_7.23.1%2Fv2rayN-windows-64_split.zip) (59.9 MB) `(CRC32: a88f5e33)`
+- [`v2rayN-windows-64_split.z01`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.23.1_7.23.1%2Fv2rayN-windows-64_split.z01) (99.0 MB) `(CRC32: ff766135)`
+- [`v2rayN-windows-64_split.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.23.1_7.23.1%2Fv2rayN-windows-64_split.zip) (59.9 MB) `(CRC32: 1a04b644)`
 
 </details>
