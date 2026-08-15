@@ -70,25 +70,25 @@
     }
   ],
   "crc32": {
-    "mhrv-rs-macos-arm64.tar.zip": "c6cba5bd",
+    "mhrv-rs-macos-arm64.tar.zip": "c0657dac",
     "mhrv-rs-windows-amd64.zip": "80eafa8c",
-    "mhrv-rs-android-x86-v1.9.36.zip": "0ad2f855",
-    "mhrv-rs-android-universal-v1.9.36.zip": "c36620e0",
-    "mhrv-rs-android-armeabi-v7a-v1.9.36.zip": "43049586",
-    "mhrv-rs-android-x86_64-v1.9.36.zip": "0547865b",
-    "mhrv-rs-linux-musl-arm64.tar.zip": "2c1f4e01",
-    "mhrv-rs-raspbian-armhf.tar.zip": "d6f725b2",
-    "mhrv-rs-android-arm64-v8a-v1.9.36.zip": "5ba94d9f",
+    "mhrv-rs-android-x86-v1.9.36.zip": "336dc331",
+    "mhrv-rs-android-universal-v1.9.36.zip": "88461e5d",
+    "mhrv-rs-android-armeabi-v7a-v1.9.36.zip": "3064183c",
+    "mhrv-rs-android-x86_64-v1.9.36.zip": "dea7abcd",
+    "mhrv-rs-linux-musl-arm64.tar.zip": "915fad95",
+    "mhrv-rs-raspbian-armhf.tar.zip": "fb62649f",
+    "mhrv-rs-android-arm64-v8a-v1.9.36.zip": "f82e5178",
     "mhrv-rs-macos-arm64-app.zip": "35b71426",
-    "mhrv-rs-linux-musl-amd64.tar.zip": "77080253",
+    "mhrv-rs-linux-musl-amd64.tar.zip": "03ccf0e2",
     "mhrv-rs-macos-amd64-app.zip": "8711f699",
-    "mhrv-rs-openwrt-mipsel-softfloat.tar.zip": "7408de9c",
-    "mhrv-rs-macos-amd64.tar.zip": "22d990a9",
-    "mhrv-rs-linux-amd64.tar.zip": "f838a6ab",
-    "mhrv-rs-linux-arm64.tar.zip": "38fbcc0c"
+    "mhrv-rs-openwrt-mipsel-softfloat.tar.zip": "b2dfafc4",
+    "mhrv-rs-macos-amd64.tar.zip": "1d792030",
+    "mhrv-rs-linux-amd64.tar.zip": "2a529efa",
+    "mhrv-rs-linux-arm64.tar.zip": "af80271b"
   },
   "total_size": 147571988,
   "release_date": "2026-05-28T15:46:16Z",
   "use_lfs": false,
-  "downloaded": "2026-08-14T07:05:22.996525+00:00"
+  "downloaded": "2026-08-15T06:18:09.128982+00:00"
 }
