@@ -1,285 +1,5 @@
 {
   "repos": {
-    "ajavadinezhad/zyrln": {
-      "folder": "repos/v2.0_v2.0",
-      "tag": "v2.0",
-      "files": [
-        {
-          "name": "zyrln-2.0-darwin-arm64",
-          "size": 12857794,
-          "crc32": "a0429cd7",
-          "path": "repos/v2.0_v2.0/zyrln-2.0-darwin-arm64"
-        },
-        {
-          "name": "zyrln-2.0-vps.zip",
-          "size": 9873897,
-          "crc32": "cbf62cfd",
-          "path": "repos/v2.0_v2.0/zyrln-2.0-vps.zip"
-        },
-        {
-          "name": "zyrln-2.0-windows-amd64.zip",
-          "size": 7018943,
-          "crc32": "63629780",
-          "path": "repos/v2.0_v2.0/zyrln-2.0-windows-amd64.zip"
-        },
-        {
-          "name": "zyrln-2.0-android.zip",
-          "size": 14334844,
-          "crc32": "fb697751",
-          "path": "repos/v2.0_v2.0/zyrln-2.0-android.zip"
-        },
-        {
-          "name": "zyrln-2.0-linux-amd64",
-          "size": 13329896,
-          "crc32": "dd005f21",
-          "path": "repos/v2.0_v2.0/zyrln-2.0-linux-amd64"
-        }
-      ],
-      "original_assets": [
-        {
-          "name": "zyrln-2.0-android.apk",
-          "size": 28373774
-        },
-        {
-          "name": "zyrln-2.0-darwin-amd64",
-          "size": 13483152
-        },
-        {
-          "name": "zyrln-2.0-darwin-arm64",
-          "size": 12857794
-        },
-        {
-          "name": "zyrln-2.0-linux-amd64",
-          "size": 13329896
-        },
-        {
-          "name": "zyrln-2.0-vps.zip",
-          "size": 9873897
-        },
-        {
-          "name": "zyrln-2.0-windows-amd64.exe",
-          "size": 13421056
-        }
-      ],
-      "url": "https://github.com/ajavadinezhad/zyrln/releases/download/v2.0/zyrln-2.0-windows-amd64.exe",
-      "method": "github_release"
-    },
-    "therealaleph/MasterHttpRelayVPN-RUST": {
-      "folder": "repos/v1.9.36_v1.9.36",
-      "tag": "v1.9.36",
-      "files": [
-        {
-          "name": "mhrv-rs-macos-arm64.tar.zip",
-          "size": 7684996,
-          "crc32": "6860f619",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-arm64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-windows-amd64.zip",
-          "size": 9048825,
-          "crc32": "80eafa8c",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-windows-amd64.zip"
-        },
-        {
-          "name": "mhrv-rs-android-x86-v1.9.36.zip",
-          "size": 15098381,
-          "crc32": "7f14b816",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-x86-v1.9.36.zip"
-        },
-        {
-          "name": "mhrv-rs-android-universal-v1.9.36.zip",
-          "size": 26892688,
-          "crc32": "e7cad8d0",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-universal-v1.9.36.zip"
-        },
-        {
-          "name": "mhrv-rs-android-armeabi-v7a-v1.9.36.zip",
-          "size": 14233460,
-          "crc32": "93306c4e",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-armeabi-v7a-v1.9.36.zip"
-        },
-        {
-          "name": "mhrv-rs-android-x86_64-v1.9.36.zip",
-          "size": 14983368,
-          "crc32": "4e2e9652",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-x86_64-v1.9.36.zip"
-        },
-        {
-          "name": "mhrv-rs-linux-musl-arm64.tar.zip",
-          "size": 2760170,
-          "crc32": "f9c7524e",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-musl-arm64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-raspbian-armhf.tar.zip",
-          "size": 2650517,
-          "crc32": "83a3c90a",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-raspbian-armhf.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-android-arm64-v8a-v1.9.36.zip",
-          "size": 14698687,
-          "crc32": "79845ad2",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-arm64-v8a-v1.9.36.zip"
-        },
-        {
-          "name": "mhrv-rs-macos-arm64-app.zip",
-          "size": 5265068,
-          "crc32": "35b71426",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-arm64-app.zip"
-        },
-        {
-          "name": "mhrv-rs-linux-musl-amd64.tar.zip",
-          "size": 2997678,
-          "crc32": "d0758026",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-musl-amd64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-macos-amd64-app.zip",
-          "size": 5764869,
-          "crc32": "8711f699",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-amd64-app.zip"
-        },
-        {
-          "name": "mhrv-rs-openwrt-mipsel-softfloat.tar.zip",
-          "size": 2985918,
-          "crc32": "5d358351",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-openwrt-mipsel-softfloat.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-macos-amd64.tar.zip",
-          "size": 8482054,
-          "crc32": "7d73733e",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-amd64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-linux-amd64.tar.zip",
-          "size": 11310157,
-          "crc32": "61114f0f",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-amd64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-linux-arm64.tar.zip",
-          "size": 2715152,
-          "crc32": "1ccfd439",
-          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-arm64.tar.zip"
-        }
-      ],
-      "original_assets": [
-        {
-          "name": "mhrv-rs-android-arm64-v8a-v1.9.36.apk",
-          "size": 20570061
-        },
-        {
-          "name": "mhrv-rs-android-armeabi-v7a-v1.9.36.apk",
-          "size": 17944065
-        },
-        {
-          "name": "mhrv-rs-android-universal-v1.9.36.apk",
-          "size": 47955651
-        },
-        {
-          "name": "mhrv-rs-android-x86-v1.9.36.apk",
-          "size": 21728769
-        },
-        {
-          "name": "mhrv-rs-android-x86_64-v1.9.36.apk",
-          "size": 21871887
-        },
-        {
-          "name": "mhrv-rs-linux-amd64.tar.gz",
-          "size": 11329488
-        },
-        {
-          "name": "mhrv-rs-linux-arm64.tar.gz",
-          "size": 2719286
-        },
-        {
-          "name": "mhrv-rs-linux-musl-amd64.tar.gz",
-          "size": 3000757
-        },
-        {
-          "name": "mhrv-rs-linux-musl-arm64.tar.gz",
-          "size": 2762198
-        },
-        {
-          "name": "mhrv-rs-macos-amd64-app.zip",
-          "size": 5764869
-        },
-        {
-          "name": "mhrv-rs-macos-amd64.tar.gz",
-          "size": 8485001
-        },
-        {
-          "name": "mhrv-rs-macos-arm64-app.zip",
-          "size": 5265068
-        },
-        {
-          "name": "mhrv-rs-macos-arm64.tar.gz",
-          "size": 7690483
-        },
-        {
-          "name": "mhrv-rs-openwrt-mipsel-softfloat.tar.gz",
-          "size": 2996452
-        },
-        {
-          "name": "mhrv-rs-raspbian-armhf.tar.gz",
-          "size": 2657839
-        },
-        {
-          "name": "mhrv-rs-windows-amd64.zip",
-          "size": 9048825
-        }
-      ],
-      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-windows-amd64.zip",
-      "method": "github_release"
-    },
-    "2dust/v2rayN": {
-      "folder": "repos/7.24.8_7.24.8",
-      "tag": "7.24.8",
-      "files": [
-        {
-          "name": "v2rayN-windows-64_split.z01",
-          "size": 103809024,
-          "crc32": "f3c64257",
-          "path": "repos/7.24.8_7.24.8/v2rayN-windows-64_split.z01"
-        },
-        {
-          "name": "v2rayN-windows-64_split.zip",
-          "size": 52117759,
-          "crc32": "d6ba3287",
-          "path": "repos/7.24.8_7.24.8/v2rayN-windows-64_split.zip"
-        }
-      ],
-      "original_assets": [
-        {
-          "name": "v2rayN-windows-64.zip",
-          "size": 155926547
-        }
-      ],
-      "url": "https://github.com/2dust/v2rayN/releases/download/7.24.8/v2rayN-windows-64.zip",
-      "method": "github_release"
-    },
-    "2dust/v2rayNG": {
-      "folder": "repos/2.3.5_2.3.5",
-      "tag": "2.3.5",
-      "files": [
-        {
-          "name": "v2rayNG_2.3.5_universal.zip",
-          "size": 71051854,
-          "crc32": "bac9c16f",
-          "path": "repos/2.3.5_2.3.5/v2rayNG_2.3.5_universal.zip"
-        }
-      ],
-      "original_assets": [
-        {
-          "name": "v2rayNG_2.3.5_universal.apk",
-          "size": 72343041
-        }
-      ],
-      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.5/v2rayNG_2.3.5_universal.apk",
-      "method": "github_release"
-    },
     "Chocolate4U/Iran-v2ray-rules": {
       "folder": "repos/202608240522_202608240522",
       "tag": "202608240522",
@@ -398,6 +118,280 @@
         }
       ],
       "url": "https://github.com/Chocolate4U/Iran-v2ray-rules/releases/download/202608240522/Services.mmdb",
+      "method": "github_release"
+    },
+    "ajavadinezhad/zyrln": {
+      "folder": "repos/v2.0_v2.0",
+      "tag": "v2.0",
+      "files": [
+        {
+          "name": "zyrln-2.0-vps.zip",
+          "size": 9873897,
+          "crc32": "cbf62cfd",
+          "path": "repos/v2.0_v2.0/zyrln-2.0-vps.zip"
+        },
+        {
+          "name": "zyrln-2.0-windows-amd64.zip",
+          "size": 7018943,
+          "crc32": "d5bdb063",
+          "path": "repos/v2.0_v2.0/zyrln-2.0-windows-amd64.zip"
+        },
+        {
+          "name": "zyrln-2.0-android.zip",
+          "size": 14334844,
+          "crc32": "f16a7ef4",
+          "path": "repos/v2.0_v2.0/zyrln-2.0-android.zip"
+        },
+        {
+          "name": "zyrln-2.0-linux-amd64",
+          "size": 13329896,
+          "crc32": "dd005f21",
+          "path": "repos/v2.0_v2.0/zyrln-2.0-linux-amd64"
+        }
+      ],
+      "original_assets": [
+        {
+          "name": "zyrln-2.0-android.apk",
+          "size": 28373774
+        },
+        {
+          "name": "zyrln-2.0-darwin-amd64",
+          "size": 13483152
+        },
+        {
+          "name": "zyrln-2.0-darwin-arm64",
+          "size": 12857794
+        },
+        {
+          "name": "zyrln-2.0-linux-amd64",
+          "size": 13329896
+        },
+        {
+          "name": "zyrln-2.0-vps.zip",
+          "size": 9873897
+        },
+        {
+          "name": "zyrln-2.0-windows-amd64.exe",
+          "size": 13421056
+        }
+      ],
+      "url": "https://github.com/ajavadinezhad/zyrln/releases/download/v2.0/zyrln-2.0-windows-amd64.exe",
+      "method": "github_release"
+    },
+    "therealaleph/MasterHttpRelayVPN-RUST": {
+      "folder": "repos/v1.9.36_v1.9.36",
+      "tag": "v1.9.36",
+      "files": [
+        {
+          "name": "mhrv-rs-macos-arm64.tar.zip",
+          "size": 7684996,
+          "crc32": "adf435ad",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-arm64.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-windows-amd64.zip",
+          "size": 9048825,
+          "crc32": "80eafa8c",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-windows-amd64.zip"
+        },
+        {
+          "name": "mhrv-rs-android-x86-v1.9.36.zip",
+          "size": 15098381,
+          "crc32": "51aecadc",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-x86-v1.9.36.zip"
+        },
+        {
+          "name": "mhrv-rs-android-universal-v1.9.36.zip",
+          "size": 26892688,
+          "crc32": "03beaafb",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-universal-v1.9.36.zip"
+        },
+        {
+          "name": "mhrv-rs-android-armeabi-v7a-v1.9.36.zip",
+          "size": 14233460,
+          "crc32": "aca9c762",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-armeabi-v7a-v1.9.36.zip"
+        },
+        {
+          "name": "mhrv-rs-android-x86_64-v1.9.36.zip",
+          "size": 14983368,
+          "crc32": "6e24a892",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-x86_64-v1.9.36.zip"
+        },
+        {
+          "name": "mhrv-rs-linux-musl-arm64.tar.zip",
+          "size": 2760170,
+          "crc32": "421b8395",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-musl-arm64.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-raspbian-armhf.tar.zip",
+          "size": 2650517,
+          "crc32": "169116f2",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-raspbian-armhf.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-android-arm64-v8a-v1.9.36.zip",
+          "size": 14698687,
+          "crc32": "2dbc50d6",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-android-arm64-v8a-v1.9.36.zip"
+        },
+        {
+          "name": "mhrv-rs-macos-arm64-app.zip",
+          "size": 5265068,
+          "crc32": "35b71426",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-arm64-app.zip"
+        },
+        {
+          "name": "mhrv-rs-linux-musl-amd64.tar.zip",
+          "size": 2997678,
+          "crc32": "e7bbfed2",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-musl-amd64.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-macos-amd64-app.zip",
+          "size": 5764869,
+          "crc32": "8711f699",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-amd64-app.zip"
+        },
+        {
+          "name": "mhrv-rs-openwrt-mipsel-softfloat.tar.zip",
+          "size": 2985918,
+          "crc32": "65cb35c4",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-openwrt-mipsel-softfloat.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-macos-amd64.tar.zip",
+          "size": 8482054,
+          "crc32": "ea96043c",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-macos-amd64.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-linux-amd64.tar.zip",
+          "size": 11310157,
+          "crc32": "d2c10bc6",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-amd64.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-linux-arm64.tar.zip",
+          "size": 2715152,
+          "crc32": "3021eaf9",
+          "path": "repos/v1.9.36_v1.9.36/mhrv-rs-linux-arm64.tar.zip"
+        }
+      ],
+      "original_assets": [
+        {
+          "name": "mhrv-rs-android-arm64-v8a-v1.9.36.apk",
+          "size": 20570061
+        },
+        {
+          "name": "mhrv-rs-android-armeabi-v7a-v1.9.36.apk",
+          "size": 17944065
+        },
+        {
+          "name": "mhrv-rs-android-universal-v1.9.36.apk",
+          "size": 47955651
+        },
+        {
+          "name": "mhrv-rs-android-x86-v1.9.36.apk",
+          "size": 21728769
+        },
+        {
+          "name": "mhrv-rs-android-x86_64-v1.9.36.apk",
+          "size": 21871887
+        },
+        {
+          "name": "mhrv-rs-linux-amd64.tar.gz",
+          "size": 11329488
+        },
+        {
+          "name": "mhrv-rs-linux-arm64.tar.gz",
+          "size": 2719286
+        },
+        {
+          "name": "mhrv-rs-linux-musl-amd64.tar.gz",
+          "size": 3000757
+        },
+        {
+          "name": "mhrv-rs-linux-musl-arm64.tar.gz",
+          "size": 2762198
+        },
+        {
+          "name": "mhrv-rs-macos-amd64-app.zip",
+          "size": 5764869
+        },
+        {
+          "name": "mhrv-rs-macos-amd64.tar.gz",
+          "size": 8485001
+        },
+        {
+          "name": "mhrv-rs-macos-arm64-app.zip",
+          "size": 5265068
+        },
+        {
+          "name": "mhrv-rs-macos-arm64.tar.gz",
+          "size": 7690483
+        },
+        {
+          "name": "mhrv-rs-openwrt-mipsel-softfloat.tar.gz",
+          "size": 2996452
+        },
+        {
+          "name": "mhrv-rs-raspbian-armhf.tar.gz",
+          "size": 2657839
+        },
+        {
+          "name": "mhrv-rs-windows-amd64.zip",
+          "size": 9048825
+        }
+      ],
+      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.36/mhrv-rs-windows-amd64.zip",
+      "method": "github_release"
+    },
+    "2dust/v2rayN": {
+      "folder": "repos/7.24.8_7.24.8",
+      "tag": "7.24.8",
+      "files": [
+        {
+          "name": "v2rayN-windows-64_split.z01",
+          "size": 103809024,
+          "crc32": "8efb1c62",
+          "path": "repos/7.24.8_7.24.8/v2rayN-windows-64_split.z01"
+        },
+        {
+          "name": "v2rayN-windows-64_split.zip",
+          "size": 52117759,
+          "crc32": "4d3dc09b",
+          "path": "repos/7.24.8_7.24.8/v2rayN-windows-64_split.zip"
+        }
+      ],
+      "original_assets": [
+        {
+          "name": "v2rayN-windows-64.zip",
+          "size": 155926547
+        }
+      ],
+      "url": "https://github.com/2dust/v2rayN/releases/download/7.24.8/v2rayN-windows-64.zip",
+      "method": "github_release"
+    },
+    "2dust/v2rayNG": {
+      "folder": "repos/2.3.5_2.3.5",
+      "tag": "2.3.5",
+      "files": [
+        {
+          "name": "v2rayNG_2.3.5_universal.zip",
+          "size": 71051854,
+          "crc32": "1847be8f",
+          "path": "repos/2.3.5_2.3.5/v2rayNG_2.3.5_universal.zip"
+        }
+      ],
+      "original_assets": [
+        {
+          "name": "v2rayNG_2.3.5_universal.apk",
+          "size": 72343041
+        }
+      ],
+      "url": "https://github.com/2dust/v2rayNG/releases/download/2.3.5/v2rayNG_2.3.5_universal.apk",
       "method": "github_release"
     }
   },

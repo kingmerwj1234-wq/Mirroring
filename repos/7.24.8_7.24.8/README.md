@@ -3,15 +3,15 @@
 | Property | Value |
 |--- |---|
 | **URL** | https://github.com/2dust/v2rayN/releases/tag/7.24.8 |
-| **Downloaded** | 2026-08-24 06:33 UTC |
-| **Release Date** | 2026-08-22 09:33 UTC (1 day ago) |
+| **Downloaded** | 2026-08-25 06:25 UTC |
+| **Release Date** | 2026-08-22 09:33 UTC (2 days ago) |
 | **Total Size** | 148.7 MB |
 | **Release Name** | 7.24.8 |
 | **Tag** | 7.24.8 |
 
 <details><summary>Files</summary>
 
-- [`v2rayN-windows-64_split.z01`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.24.8_7.24.8%2Fv2rayN-windows-64_split.z01) (99.0 MB) `(CRC32: f3c64257)`
-- [`v2rayN-windows-64_split.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.24.8_7.24.8%2Fv2rayN-windows-64_split.zip) (49.7 MB) `(CRC32: d6ba3287)`
+- [`v2rayN-windows-64_split.z01`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.24.8_7.24.8%2Fv2rayN-windows-64_split.z01) (99.0 MB) `(CRC32: 8efb1c62)`
+- [`v2rayN-windows-64_split.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.24.8_7.24.8%2Fv2rayN-windows-64_split.zip) (49.7 MB) `(CRC32: 4d3dc09b)`
 
 </details>
