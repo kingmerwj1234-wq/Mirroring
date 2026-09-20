@@ -30,13 +30,13 @@
     }
   ],
   "crc32": {
-    "zyrln-2.0-windows-amd64.zip": "630bf176",
+    "zyrln-2.0-windows-amd64.zip": "3b14dbb0",
     "zyrln-2.0-linux-amd64": "dd005f21",
-    "zyrln-2.0-android.zip": "fb10ec9b",
+    "zyrln-2.0-android.zip": "afac00c0",
     "zyrln-2.0-vps.zip": "cbf62cfd"
   },
   "total_size": 44557580,
   "release_date": "2026-07-31T05:24:39Z",
   "use_lfs": false,
-  "downloaded": "2026-09-19T09:52:10.173006+00:00"
+  "downloaded": "2026-09-20T10:13:52.774849+00:00"
 }
