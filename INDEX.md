@@ -24,8 +24,8 @@
 
 | File | Size | CRC32 |
 |--- |--- |---|
-| [`zyrln-2.0-windows-amd64.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.0_v2.0%2Fzyrln-2.0-windows-amd64.zip) | 6.7 MB | 20107d4f |
-| [`zyrln-2.0-android.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.0_v2.0%2Fzyrln-2.0-android.zip) | 13.7 MB | 5fb2cde3 |
+| [`zyrln-2.0-windows-amd64.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.0_v2.0%2Fzyrln-2.0-windows-amd64.zip) | 6.7 MB | 21bf616b |
+| [`zyrln-2.0-android.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.0_v2.0%2Fzyrln-2.0-android.zip) | 13.7 MB | 6334ddaa |
 | [`zyrln-2.0-vps.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.0_v2.0%2Fzyrln-2.0-vps.zip) | 9.4 MB | cbf62cfd |
 | [`zyrln-2.0-darwin-amd64`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.0_v2.0%2Fzyrln-2.0-darwin-amd64) | 12.9 MB | 294efa07 |
 
@@ -35,22 +35,22 @@
 
 | File | Size | CRC32 |
 |--- |--- |---|
-| [`mhrv-rs-linux-arm64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-arm64.tar.zip) | 2.6 MB | 32983d4a |
-| [`mhrv-rs-android-x86-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-x86-v1.9.37.zip) | 14.4 MB | f2982dfd |
-| [`mhrv-rs-android-arm64-v8a-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-arm64-v8a-v1.9.37.zip) | 14.0 MB | 1908c392 |
-| [`mhrv-rs-linux-musl-arm64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-musl-arm64.tar.zip) | 2.6 MB | 62aa2b32 |
-| [`mhrv-rs-macos-arm64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-macos-arm64.tar.zip) | 7.3 MB | 25def713 |
-| [`mhrv-rs-android-armeabi-v7a-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-armeabi-v7a-v1.9.37.zip) | 13.5 MB | ebc62ab1 |
-| [`mhrv-rs-android-universal-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-universal-v1.9.37.zip) | 25.5 MB | 21825b99 |
-| [`mhrv-rs-openwrt-mipsel-softfloat.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-openwrt-mipsel-softfloat.tar.zip) | 2.9 MB | ae0e6652 |
-| [`mhrv-rs-android-x86_64-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-x86_64-v1.9.37.zip) | 14.3 MB | 5dd02343 |
-| [`mhrv-rs-linux-musl-amd64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-musl-amd64.tar.zip) | 2.9 MB | 4334e81a |
+| [`mhrv-rs-linux-arm64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-arm64.tar.zip) | 2.6 MB | 33cff37e |
+| [`mhrv-rs-android-x86-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-x86-v1.9.37.zip) | 14.4 MB | 05ada402 |
+| [`mhrv-rs-android-arm64-v8a-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-arm64-v8a-v1.9.37.zip) | 14.0 MB | f25cf305 |
+| [`mhrv-rs-linux-musl-arm64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-musl-arm64.tar.zip) | 2.6 MB | 29c8b70c |
+| [`mhrv-rs-macos-arm64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-macos-arm64.tar.zip) | 7.3 MB | 13a5348c |
+| [`mhrv-rs-android-armeabi-v7a-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-armeabi-v7a-v1.9.37.zip) | 13.5 MB | b5ed45cd |
+| [`mhrv-rs-android-universal-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-universal-v1.9.37.zip) | 25.5 MB | 899e2832 |
+| [`mhrv-rs-openwrt-mipsel-softfloat.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-openwrt-mipsel-softfloat.tar.zip) | 2.9 MB | f6334fd8 |
+| [`mhrv-rs-android-x86_64-v1.9.37.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-android-x86_64-v1.9.37.zip) | 14.3 MB | d8bf62d9 |
+| [`mhrv-rs-linux-musl-amd64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-musl-amd64.tar.zip) | 2.9 MB | ea88583f |
 | [`mhrv-rs-windows-amd64.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-windows-amd64.zip) | 8.6 MB | 34c281ce |
 | [`mhrv-rs-macos-arm64-app.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-macos-arm64-app.zip) | 5.0 MB | 7ee73e3c |
 | [`mhrv-rs-macos-amd64-app.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-macos-amd64-app.zip) | 5.5 MB | eccbb432 |
-| [`mhrv-rs-raspbian-armhf.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-raspbian-armhf.tar.zip) | 2.5 MB | 5564a507 |
-| [`mhrv-rs-linux-amd64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-amd64.tar.zip) | 10.7 MB | 3a95e321 |
-| [`mhrv-rs-macos-amd64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-macos-amd64.tar.zip) | 8.1 MB | 47e535d4 |
+| [`mhrv-rs-raspbian-armhf.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-raspbian-armhf.tar.zip) | 2.5 MB | 08202f4b |
+| [`mhrv-rs-linux-amd64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-linux-amd64.tar.zip) | 10.7 MB | 250f4d6b |
+| [`mhrv-rs-macos-amd64.tar.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv1.9.37_v1.9.37%2Fmhrv-rs-macos-amd64.tar.zip) | 8.1 MB | 75211fdc |
 
 ---
 
@@ -58,8 +58,8 @@
 
 | File | Size | CRC32 |
 |--- |--- |---|
-| [`v2rayN-windows-64_split.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.25.2_7.25.2%2Fv2rayN-windows-64_split.zip) | 61.2 MB | 3460635b |
-| [`v2rayN-windows-64_split.z01`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.25.2_7.25.2%2Fv2rayN-windows-64_split.z01) | 99.0 MB | d83bf10d |
+| [`v2rayN-windows-64_split.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.25.2_7.25.2%2Fv2rayN-windows-64_split.zip) | 61.2 MB | 3f7991a1 |
+| [`v2rayN-windows-64_split.z01`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F7.25.2_7.25.2%2Fv2rayN-windows-64_split.z01) | 99.0 MB | 47ba7efd |
 
 ---
 
@@ -67,6 +67,6 @@
 
 | File | Size | CRC32 |
 |--- |--- |---|
-| [`v2rayNG_2.3.9_universal.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F2.3.9_2.3.9%2Fv2rayNG_2.3.9_universal.zip) | 68.9 MB | 05cd1a5e |
+| [`v2rayNG_2.3.9_universal.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2F2.3.9_2.3.9%2Fv2rayNG_2.3.9_universal.zip) | 68.9 MB | d6ce144f |
 
 ---
