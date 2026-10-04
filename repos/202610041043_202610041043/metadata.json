@@ -1,0 +1,69 @@
+{
+  "url": "https://github.com/Chocolate4U/Iran-v2ray-rules/releases/download/202610041043/Services.mmdb",
+  "method": "github_release",
+  "repo": "Chocolate4U/Iran-v2ray-rules",
+  "tag": "202610041043",
+  "assets": [
+    {
+      "name": "Country-lite.mmdb",
+      "size": 134067
+    },
+    {
+      "name": "Country.mmdb",
+      "size": 8507051
+    },
+    {
+      "name": "geoip-lite.dat",
+      "size": 38566
+    },
+    {
+      "name": "geoip-services.dat",
+      "size": 346589
+    },
+    {
+      "name": "geoip.dat",
+      "size": 16459823
+    },
+    {
+      "name": "geosite-lite.dat",
+      "size": 1967256
+    },
+    {
+      "name": "geosite.dat",
+      "size": 7975750
+    },
+    {
+      "name": "security-ip.dat",
+      "size": 15405
+    },
+    {
+      "name": "Security-ip.mmdb",
+      "size": 193992
+    },
+    {
+      "name": "security.dat",
+      "size": 2618421
+    },
+    {
+      "name": "Services.mmdb",
+      "size": 536549
+    }
+  ],
+  "crc32": {
+    "security.dat": "7a6e78a4",
+    "geoip-services.dat": "699f3e43",
+    "Security-ip.mmdb": "56c02faa",
+    "Country.mmdb": "be1b062b",
+    "Services.mmdb": "f389a327",
+    "geosite.dat": "ce6cc0d0",
+    "geoip.dat": "e24d4cce",
+    "security-ip.dat": "95c1708c",
+    "geosite-lite.dat": "979635e4",
+    "geoip-lite.dat": "85fac843",
+    "Country-lite.mmdb": "ecd9ebc2"
+  },
+  "total_size": 38793469,
+  "release_date": "2026-10-04T10:45:10Z",
+  "use_lfs": false,
+  "downloaded": "2026-10-04T11:27:58.065119+00:00"
+}
