@@ -3,17 +3,18 @@
 | Property | Value |
 |--- |---|
 | **URL** | https://github.com/ajavadinezhad/zyrln/releases/tag/v2.1-pre-1 |
-| **Downloaded** | 2026-10-21 10:45 UTC |
-| **Release Date** | 2026-10-15 18:58 UTC (5 days ago) |
-| **Total Size** | 41.3 MB |
+| **Downloaded** | 2026-10-22 10:46 UTC |
+| **Release Date** | 2026-10-15 18:58 UTC (6 days ago) |
+| **Total Size** | 47.8 MB |
 | **Release Name** | v2.1-pre-1 |
 | **Tag** | v2.1-pre-1 |
 
 <details><summary>Files</summary>
 
-- [`zyrln-2.1-pre-1-android.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.1-pre-1-android.zip) (12.3 MB) `(CRC32: 55634f2c)`
+- [`zyrln-2.1-pre-1-android.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.1-pre-1-android.zip) (12.3 MB) `(CRC32: 46215813)`
 - [`zyrln-2.1-pre-1-darwin-amd64`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.1-pre-1-darwin-amd64) (12.9 MB) `(CRC32: 5aa3ccb8)`
 - [`zyrln-2.1-pre-1-vps.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.1-pre-1-vps.zip) (9.4 MB) `(CRC32: c0f9a9ab)`
-- [`zyrln-2.1-pre-1-windows-amd64.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.1-pre-1-windows-amd64.zip) (6.7 MB) `(CRC32: 61923725)`
+- [`zyrln-2.1-pre-1-windows-amd64.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.1-pre-1-windows-amd64.zip) (6.7 MB) `(CRC32: 7047147a)`
+- [`zyrln-2.zip`](https://github.com/kingmerwj1234-wq/Mirroring/raw/main/repos%2Fv2.1-pre-1_v2.1-pre-1%2Fzyrln-2.zip) (6.5 MB) `(CRC32: 69d2d04e)`
 
 </details>
