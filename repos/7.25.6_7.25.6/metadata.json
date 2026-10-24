@@ -10,11 +10,11 @@
     }
   ],
   "crc32": {
-    "v2rayN-windows-64_split.zip": "0ecc3942",
-    "v2rayN-windows-64_split.z01": "ccf038fb"
+    "v2rayN-windows-64_split.zip": "a19d0aa2",
+    "v2rayN-windows-64_split.z01": "84f05275"
   },
   "total_size": 168730236,
   "release_date": "2026-10-11T05:59:58Z",
   "use_lfs": false,
-  "downloaded": "2026-10-23T10:39:14.570570+00:00"
+  "downloaded": "2026-10-24T09:56:32.940558+00:00"
 }

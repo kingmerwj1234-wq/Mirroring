@@ -32,11 +32,11 @@
   "crc32": {
     "zyrln-2.1-pre-1-darwin-amd64": "5aa3ccb8",
     "zyrln-2.1-pre-1-vps.zip": "c0f9a9ab",
-    "zyrln-2.1-pre-1-android.zip": "c485ec48",
-    "zyrln-2.1-pre-1-windows-amd64.zip": "19157a22"
+    "zyrln-2.1-pre-1-android.zip": "703004db",
+    "zyrln-2.1-pre-1-windows-amd64.zip": "de80deac"
   },
   "total_size": 43348016,
   "release_date": "2026-10-15T18:58:57Z",
   "use_lfs": false,
-  "downloaded": "2026-10-23T10:39:02.452878+00:00"
+  "downloaded": "2026-10-24T09:56:22.265575+00:00"
 }
