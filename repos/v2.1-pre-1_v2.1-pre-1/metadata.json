@@ -30,14 +30,14 @@
     }
   ],
   "crc32": {
-    "zyrln-2.1-pre-1-android.zip": "65f83db2",
+    "zyrln-2.1-pre-1-android.zip": "1835febb",
     "zyrln-2.1-pre-1-darwin-amd64": "5aa3ccb8",
     "zyrln-2.1-pre-1-linux-amd64": "6544df3b",
     "zyrln-2.1-pre-1-vps.zip": "c0f9a9ab",
-    "zyrln-2.1-pre-1-windows-amd64.zip": "54d391f1"
+    "zyrln-2.1-pre-1-windows-amd64.zip": "7d3fd0cf"
   },
   "total_size": 56713324,
   "release_date": "2026-10-15T18:58:57Z",
   "use_lfs": false,
-  "downloaded": "2026-11-03T13:10:25.875070+00:00"
+  "downloaded": "2026-11-04T13:25:27.760407+00:00"
 }
