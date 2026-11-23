@@ -5,16 +5,22 @@
       "tag": "v2.1-pre-2",
       "files": [
         {
+          "name": "zyrln-2.zip",
+          "size": 7301061,
+          "crc32": "171b8e1d",
+          "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.zip"
+        },
+        {
           "name": "zyrln-2.1-pre-2-android.zip",
           "size": 13059483,
-          "crc32": "7e08c366",
+          "crc32": "e29c9f70",
           "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.1-pre-2-android.zip"
         },
         {
-          "name": "zyrln-2.1-pre-2-windows-amd64.zip",
-          "size": 7320244,
-          "crc32": "571bc938",
-          "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.1-pre-2-windows-amd64.zip"
+          "name": "zyrln-2.1-pre-2-vps.zip",
+          "size": 9873748,
+          "crc32": "a1f43f25",
+          "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.1-pre-2-vps.zip"
         },
         {
           "name": "zyrln-2.1-pre-2-darwin-amd64",
@@ -23,10 +29,10 @@
           "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.1-pre-2-darwin-amd64"
         },
         {
-          "name": "zyrln-2.1-pre-2-vps.zip",
-          "size": 9873748,
-          "crc32": "a1f43f25",
-          "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.1-pre-2-vps.zip"
+          "name": "zyrln-2.1-pre-2-windows-amd64.zip",
+          "size": 7320244,
+          "crc32": "69cf11ee",
+          "path": "repos/v2.1-pre-2_v2.1-pre-2/zyrln-2.1-pre-2-windows-amd64.zip"
         }
       ],
       "original_assets": [
@@ -63,34 +69,34 @@
       "tag": "v1.9.38",
       "files": [
         {
+          "name": "mhrv-rs-macos-amd64.tar.zip",
+          "size": 8486742,
+          "crc32": "ffc59dde",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-amd64.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-android-arm64-v8a-v1.9.38.zip",
+          "size": 14668118,
+          "crc32": "97b25130",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-arm64-v8a-v1.9.38.zip"
+        },
+        {
           "name": "mhrv-rs-linux-musl-amd64.tar.zip",
           "size": 2993429,
-          "crc32": "29d73f46",
+          "crc32": "6bcc63c0",
           "path": "repos/v1.9.38_v1.9.38/mhrv-rs-linux-musl-amd64.tar.zip"
         },
         {
-          "name": "mhrv-rs-android-x86_64-v1.9.38.zip",
-          "size": 14969660,
-          "crc32": "ab31457e",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-x86_64-v1.9.38.zip"
+          "name": "mhrv-rs-android-universal-v1.9.38.zip",
+          "size": 26807606,
+          "crc32": "07db8312",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-universal-v1.9.38.zip"
         },
         {
-          "name": "mhrv-rs-linux-arm64.tar.zip",
-          "size": 2706198,
-          "crc32": "d510aff5",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-linux-arm64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-macos-arm64-app.zip",
-          "size": 5261295,
-          "crc32": "e0629e50",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-arm64-app.zip"
-        },
-        {
-          "name": "mhrv-rs-linux-amd64.tar.zip",
-          "size": 11228990,
-          "crc32": "d66f6314",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-linux-amd64.tar.zip"
+          "name": "mhrv-rs-macos-arm64.tar.zip",
+          "size": 7679410,
+          "crc32": "14d9c261",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-arm64.tar.zip"
         },
         {
           "name": "mhrv-rs-macos-amd64-app.zip",
@@ -99,22 +105,16 @@
           "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-amd64-app.zip"
         },
         {
+          "name": "mhrv-rs-macos-arm64-app.zip",
+          "size": 5261295,
+          "crc32": "e0629e50",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-arm64-app.zip"
+        },
+        {
           "name": "mhrv-rs-raspbian-armhf.tar.zip",
           "size": 2648059,
-          "crc32": "c0fc119c",
+          "crc32": "c7ed543d",
           "path": "repos/v1.9.38_v1.9.38/mhrv-rs-raspbian-armhf.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-macos-amd64.tar.zip",
-          "size": 8486742,
-          "crc32": "6031550b",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-amd64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-android-x86-v1.9.38.zip",
-          "size": 15085911,
-          "crc32": "cef89d9a",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-x86-v1.9.38.zip"
         },
         {
           "name": "mhrv-rs-windows-amd64.zip",
@@ -123,40 +123,46 @@
           "path": "repos/v1.9.38_v1.9.38/mhrv-rs-windows-amd64.zip"
         },
         {
+          "name": "mhrv-rs-linux-arm64.tar.zip",
+          "size": 2706198,
+          "crc32": "bce6d08f",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-linux-arm64.tar.zip"
+        },
+        {
           "name": "mhrv-rs-linux-musl-arm64.tar.zip",
           "size": 2758148,
-          "crc32": "edecce9d",
+          "crc32": "6a260076",
           "path": "repos/v1.9.38_v1.9.38/mhrv-rs-linux-musl-arm64.tar.zip"
         },
         {
-          "name": "mhrv-rs-macos-arm64.tar.zip",
-          "size": 7679410,
-          "crc32": "d56df642",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-macos-arm64.tar.zip"
-        },
-        {
-          "name": "mhrv-rs-android-armeabi-v7a-v1.9.38.zip",
-          "size": 14207953,
-          "crc32": "cf63f1ca",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-armeabi-v7a-v1.9.38.zip"
-        },
-        {
-          "name": "mhrv-rs-android-arm64-v8a-v1.9.38.zip",
-          "size": 14668118,
-          "crc32": "9c7dea7d",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-arm64-v8a-v1.9.38.zip"
-        },
-        {
-          "name": "mhrv-rs-android-universal-v1.9.38.zip",
-          "size": 26807606,
-          "crc32": "232fdaee",
-          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-universal-v1.9.38.zip"
+          "name": "mhrv-rs-linux-amd64.tar.zip",
+          "size": 11228990,
+          "crc32": "68c40993",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-linux-amd64.tar.zip"
         },
         {
           "name": "mhrv-rs-openwrt-mipsel-softfloat.tar.zip",
           "size": 3011838,
-          "crc32": "19de9c0f",
+          "crc32": "d6d6be33",
           "path": "repos/v1.9.38_v1.9.38/mhrv-rs-openwrt-mipsel-softfloat.tar.zip"
+        },
+        {
+          "name": "mhrv-rs-android-armeabi-v7a-v1.9.38.zip",
+          "size": 14207953,
+          "crc32": "2001b36d",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-armeabi-v7a-v1.9.38.zip"
+        },
+        {
+          "name": "mhrv-rs-android-x86-v1.9.38.zip",
+          "size": 15085911,
+          "crc32": "3cb85e83",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-x86-v1.9.38.zip"
+        },
+        {
+          "name": "mhrv-rs-android-x86_64-v1.9.38.zip",
+          "size": 14969660,
+          "crc32": "2b4b94ab",
+          "path": "repos/v1.9.38_v1.9.38/mhrv-rs-android-x86_64-v1.9.38.zip"
         }
       ],
       "original_assets": [
@@ -235,13 +241,13 @@
         {
           "name": "v2rayN-windows-64_split.z01",
           "size": 103809024,
-          "crc32": "6a4379c7",
+          "crc32": "e6905202",
           "path": "repos/8.0.1_8.0.1/v2rayN-windows-64_split.z01"
         },
         {
           "name": "v2rayN-windows-64_split.zip",
           "size": 65411323,
-          "crc32": "ba6d087a",
+          "crc32": "1f63f6dc",
           "path": "repos/8.0.1_8.0.1/v2rayN-windows-64_split.zip"
         }
       ],
@@ -261,7 +267,7 @@
         {
           "name": "v2rayNG_2.4.0_universal.zip",
           "size": 71012530,
-          "crc32": "f21b30d5",
+          "crc32": "356c9e46",
           "path": "repos/2.4.0_2.4.0/v2rayNG_2.4.0_universal.zip"
         }
       ],
@@ -275,74 +281,74 @@
       "method": "github_release"
     },
     "Chocolate4U/Iran-v2ray-rules": {
-      "folder": "repos/202611221249_202611221249",
-      "tag": "202611221249",
+      "folder": "repos/202611231517_202611231517",
+      "tag": "202611231517",
       "files": [
+        {
+          "name": "Country-lite.mmdb",
+          "size": 130210,
+          "crc32": "010d3bc8",
+          "path": "repos/202611231517_202611231517/Country-lite.mmdb"
+        },
+        {
+          "name": "geosite.dat",
+          "size": 8093531,
+          "crc32": "fc244e94",
+          "path": "repos/202611231517_202611231517/geosite.dat"
+        },
+        {
+          "name": "Security-ip.mmdb",
+          "size": 180286,
+          "crc32": "72b517c0",
+          "path": "repos/202611231517_202611231517/Security-ip.mmdb"
+        },
+        {
+          "name": "geoip.dat",
+          "size": 16350058,
+          "crc32": "5a2584af",
+          "path": "repos/202611231517_202611231517/geoip.dat"
+        },
         {
           "name": "geoip-lite.dat",
           "size": 37232,
           "crc32": "8dfba493",
-          "path": "repos/202611221249_202611221249/geoip-lite.dat"
-        },
-        {
-          "name": "geosite.dat",
-          "size": 8495404,
-          "crc32": "9ba827b8",
-          "path": "repos/202611221249_202611221249/geosite.dat"
-        },
-        {
-          "name": "security-ip.dat",
-          "size": 13575,
-          "crc32": "30ef130d",
-          "path": "repos/202611221249_202611221249/security-ip.dat"
-        },
-        {
-          "name": "geosite-lite.dat",
-          "size": 1949203,
-          "crc32": "41352385",
-          "path": "repos/202611221249_202611221249/geosite-lite.dat"
-        },
-        {
-          "name": "Security-ip.mmdb",
-          "size": 179383,
-          "crc32": "f0a61323",
-          "path": "repos/202611221249_202611221249/Security-ip.mmdb"
-        },
-        {
-          "name": "geoip-services.dat",
-          "size": 343737,
-          "crc32": "25c30abd",
-          "path": "repos/202611221249_202611221249/geoip-services.dat"
-        },
-        {
-          "name": "geoip.dat",
-          "size": 16350004,
-          "crc32": "29f5b58f",
-          "path": "repos/202611221249_202611221249/geoip.dat"
+          "path": "repos/202611231517_202611231517/geoip-lite.dat"
         },
         {
           "name": "security.dat",
-          "size": 3049922,
-          "crc32": "5df862b2",
-          "path": "repos/202611221249_202611221249/security.dat"
+          "size": 2647654,
+          "crc32": "59f48705",
+          "path": "repos/202611231517_202611231517/security.dat"
         },
         {
-          "name": "Country-lite.mmdb",
-          "size": 130210,
-          "crc32": "06b2b07f",
-          "path": "repos/202611221249_202611221249/Country-lite.mmdb"
+          "name": "geosite-lite.dat",
+          "size": 1949031,
+          "crc32": "43ad388b",
+          "path": "repos/202611231517_202611231517/geosite-lite.dat"
+        },
+        {
+          "name": "security-ip.dat",
+          "size": 13605,
+          "crc32": "e771942e",
+          "path": "repos/202611231517_202611231517/security-ip.dat"
         },
         {
           "name": "Country.mmdb",
-          "size": 8378230,
-          "crc32": "4a163f7a",
-          "path": "repos/202611221249_202611221249/Country.mmdb"
+          "size": 8378251,
+          "crc32": "ab217b35",
+          "path": "repos/202611231517_202611231517/Country.mmdb"
+        },
+        {
+          "name": "geoip-services.dat",
+          "size": 343761,
+          "crc32": "65064bc4",
+          "path": "repos/202611231517_202611231517/geoip-services.dat"
         },
         {
           "name": "Services.mmdb",
-          "size": 524110,
-          "crc32": "1026edf4",
-          "path": "repos/202611221249_202611221249/Services.mmdb"
+          "size": 524068,
+          "crc32": "bc9347c8",
+          "path": "repos/202611231517_202611231517/Services.mmdb"
         }
       ],
       "original_assets": [
@@ -352,7 +358,7 @@
         },
         {
           "name": "Country.mmdb",
-          "size": 8378230
+          "size": 8378251
         },
         {
           "name": "geoip-lite.dat",
@@ -360,38 +366,38 @@
         },
         {
           "name": "geoip-services.dat",
-          "size": 343737
+          "size": 343761
         },
         {
           "name": "geoip.dat",
-          "size": 16350004
+          "size": 16350058
         },
         {
           "name": "geosite-lite.dat",
-          "size": 1949203
+          "size": 1949031
         },
         {
           "name": "geosite.dat",
-          "size": 8495404
+          "size": 8093531
         },
         {
           "name": "security-ip.dat",
-          "size": 13575
+          "size": 13605
         },
         {
           "name": "Security-ip.mmdb",
-          "size": 179383
+          "size": 180286
         },
         {
           "name": "security.dat",
-          "size": 3049922
+          "size": 2647654
         },
         {
           "name": "Services.mmdb",
-          "size": 524110
+          "size": 524068
         }
       ],
-      "url": "https://github.com/Chocolate4U/Iran-v2ray-rules/releases/download/202611221249/Services.mmdb",
+      "url": "https://github.com/Chocolate4U/Iran-v2ray-rules/releases/download/202611231517/Services.mmdb",
       "method": "github_release"
     }
   },
