@@ -1,0 +1,20 @@
+{
+  "url": "https://github.com/2dust/v2rayN/releases/download/8.0.2/v2rayN-windows-64.zip",
+  "method": "github_release",
+  "repo": "2dust/v2rayN",
+  "tag": "8.0.2",
+  "assets": [
+    {
+      "name": "v2rayN-windows-64.zip",
+      "size": 169351411
+    }
+  ],
+  "crc32": {
+    "v2rayN-windows-64_split.z01": "18115e65",
+    "v2rayN-windows-64_split.zip": "9bb173e0"
+  },
+  "total_size": 169351643,
+  "release_date": "2026-11-27T02:12:24Z",
+  "use_lfs": false,
+  "downloaded": "2026-11-27T15:45:23.640050+00:00"
+}
